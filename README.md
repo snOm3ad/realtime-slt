@@ -8,6 +8,15 @@ A Python script that uses single producer single consumer queue to process speec
 
 ### Running
 
+
+First run
+
+```sh
+pip install -r requirements.txt
+```
+
+Once all packages are installed run with
+
 ```sh
 python3 proto-thread.py
 ```
