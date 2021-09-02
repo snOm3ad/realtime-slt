@@ -12,7 +12,7 @@ screen = pygame.display.set_mode((800, 600))
 
 # titulo e icono
 pygame.display.set_caption("Prototipo")
-icon = pygame.image.load("Captura.png")
+icon = pygame.image.load("icon.png")
 pygame.display.set_icon(icon)
 
 # Reconocimiento de voz
